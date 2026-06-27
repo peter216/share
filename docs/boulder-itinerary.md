@@ -3,7 +3,8 @@
 ## Flights
 
 ### Outbound
-**Baltimore (BWI) to Denver (DEN)**
+
+**Baltimore (BWI) to Denver (DEN) - Saturday August 15 **
 
 | Flight         | From    | To  | Depart             | Arrive             | Duration |
 |----------------|---------|-----|--------------------|--------------------|----------|
@@ -27,7 +28,7 @@
 
 ### Returning
 
-**Denver (DEN) to Baltimore (BWI)**
+**Denver (DEN) to Baltimore (BWI) - Tuesday August 18 **
 
 | Flight         | From    | To  | Depart             | Arrive            | Duration |
 |----------------|---------|-----|--------------------|-------------------|----------|
@@ -41,7 +42,7 @@
 |----------|-----------------|------------------|
 | Adrienne | A4Y7OB          | 73483064770440   |
 
-## Accommodation
+## Accommodation - AirBnB
 
 | Property              | Details                                          |
 |-----------------------|--------------------------------------------------|
