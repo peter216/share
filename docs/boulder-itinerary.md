@@ -4,7 +4,7 @@
 
 ### Outbound
 
-**Baltimore (BWI) to Denver (DEN) - Saturday August 15 **
+**Baltimore (BWI) to Denver (DEN) - Saturday August 15**
 
 | Flight         | From    | To  | Depart             | Arrive             | Duration |
 |----------------|---------|-----|--------------------|--------------------|----------|
@@ -28,7 +28,7 @@
 
 ### Returning
 
-**Denver (DEN) to Baltimore (BWI) - Tuesday August 18 **
+**Denver (DEN) to Baltimore (BWI) - Tuesday August 18**
 
 | Flight         | From    | To  | Depart             | Arrive            | Duration |
 |----------------|---------|-----|--------------------|-------------------|----------|
