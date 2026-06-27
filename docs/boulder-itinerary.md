@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Boulder Itinerary — August 2026"
+description: "Flights and accommodation for the August 2026 Boulder trip."
+---
+
 # Boulder Itinerary: August 2026
 
 ## Flights
